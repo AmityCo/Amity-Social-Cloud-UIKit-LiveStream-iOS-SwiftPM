@@ -15,7 +15,7 @@ let package = Package(
         .binaryTarget(
             name: "AmityUIKitLiveStream",
             url: "https://s3-ap-southeast-1.amazonaws.com/ekosdk-release/ios/test-uikit-live-stream/AmityUIKitLiveStream.xcframework.zip",
-            checksum: "b2e316a02dd47c4df7854c17652e7abaeae6c8b2263c9e01523d35af2807339b"
+            checksum: "e80312876ff237a508cc351f5c6c52bce52f1820f25314a4d8c9ce5504c77f1c"
         ),
         .binaryTarget(
             name: "AmityLiveVideoBroadcastKit",
